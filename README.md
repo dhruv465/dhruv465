@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruv_cdlxv
 - 👀 I’m a college student
-- 🌱 I’m currently doing TY-Bca
+- 🌱 Graduate with the bachelor’s degree
 - 📫 Reach me @ dhruv.sathe11@gmail.com
 
 <!---
