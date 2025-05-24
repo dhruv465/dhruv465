@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv465&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv465&layout=compact&theme=radical&hide_border=true" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv465&theme=radical&hide_border=true" height="165">
 </div>
 
 ---
@@ -93,7 +93,7 @@ I'm always excited to collaborate on innovative projects, especially those invol
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=dhruv465&color=blueviolet&style=flat-square&label=Profile+Views">
 </div>
 
 ---
