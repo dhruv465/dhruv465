@@ -1,6 +1,6 @@
-# Hi, I'm Dhruv 👋🏼 🧑🏻‍💻
+<img src="https://res.cloudinary.com/dvfrcaw1c/image/upload/v1748100898/wt83tflggkulbbqsuydt.png" alt="Dhruv - Software Engineer & Content Creator" width="100%">
 
-### Software Engineer & Content Creator passionate about building digital experiences that make an impact
+# Hi, I'm Dhruv 👋🏼 🧑🏻‍💻
 
 <p align="left">My name is Dhruv Sathe and I'm a Front-End Developer with 2+ years of experience, from Pune, India 🇮🇳</p>
 
@@ -40,54 +40,12 @@
 
 ---
 
-## 💼 Professional Highlights
-
-🏢 **Currently**: Building AI-powered solutions at NovaTech AI  
-📈 **Impact**: Reduced manual processes by 40% through ERP systems  
-🚀 **Performance**: Optimized web apps with 45% faster load times  
-🤖 **AI Integration**: Specialized in OpenAI API integration and LLM-powered UIs  
-👥 **Collaboration**: Led 80+ code reviews and Agile sprint planning
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 AI-Powered Content Dashboard
-- **Stack**: React, Node.js, PostgreSQL, OpenAI API
-- **Impact**: 30% reduction in content creation time
-- **Features**: Real-time AI content generation, user analytics, modular UI
-
-### 🏢 Multi-Branch ERP System
-- **Achievement**: 40% reduction in manual data entry
-- **Scale**: Improved efficiency across multiple business branches
-- **Tech**: JavaScript, PHP, MySQL with secure authentication
-
-### 💬 NovuSphere Chat App
-- **Innovation**: Real-time messaging with AI-powered translation
-- **Stack**: React.js, Redux, Socket.io
-- **UX**: Seamless cross-language communication
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv465&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv465&layout=compact&theme=radical&hide_border=true" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv465&theme=radical&hide_border=true" height="165">
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects, especially those involving AI and modern web technologies!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruv-alpha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-sathe-100b9428b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv.sathe11@gmail.com)
 
 ---
