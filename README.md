@@ -1,10 +1,12 @@
 
-
 # Hi, I'm Dhruv 👋🏼 🧑🏻‍💻
 <img src="https://res.cloudinary.com/dvfrcaw1c/image/upload/v1748100898/wt83tflggkulbbqsuydt.png" alt="Dhruv - Software Engineer & Content Creator" width="100%">
-👨‍💻 Software Engineer & Content Creator passionate about building digital experiences that make an impact
+
+## 👨‍💻 Software Engineer & Content Creator passionate about building digital experiences that make an impact
+
 <p align="left"><strong>My name is Dhruv Sathe and I'm a Front-End Developer with 2+ years of experience, from Pune, India 🇮🇳</strong></p>
 <p align="left">I specialize in crafting responsive, scalable web applications using modern JavaScript frameworks like React.js and Redux. With a strong focus on AI integration and user experience, I'm passionate about turning complex problems into elegant, intuitive solutions that drive real business impact.</p>
+
 ---
 
 ## 🚀 About me
