@@ -1,7 +1,7 @@
-<img src="https://res.cloudinary.com/dvfrcaw1c/image/upload/v1748100898/wt83tflggkulbbqsuydt.png" alt="Dhruv - Software Engineer & Content Creator" width="100%">
+
 
 # Hi, I'm Dhruv 👋🏼 🧑🏻‍💻
-
+<img src="https://res.cloudinary.com/dvfrcaw1c/image/upload/v1748100898/wt83tflggkulbbqsuydt.png" alt="Dhruv - Software Engineer & Content Creator" width="100%">
 <p align="left">My name is Dhruv Sathe and I'm a Front-End Developer with 2+ years of experience, from Pune, India 🇮🇳</p>
 
 ---
