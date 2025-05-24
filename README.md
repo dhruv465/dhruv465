@@ -14,7 +14,7 @@
 **✨ Creating pixel-perfect interfaces since 2021**  
 **📚 Currently exploring**: AI integration in web development, Next.js advanced patterns, and serverless architectures  
 **🎯 Goals**: To become a full-stack AI engineer and contribute to open-source projects that democratize AI tools  
-**🎲 Fun fact**: I've built an AI-powered content dashboard that reduced content creation time by 30% and love turning complex problems into simple, elegant solutions!
+**🎲 Fun fact: I can debug JavaScript faster than I can solve a Rubik's cube, and I once spent an entire weekend building a Video-to-GIF converter just because I thought it would be cool! 🎬➡️📱
 
 ---
 
