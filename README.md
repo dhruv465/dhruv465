@@ -5,6 +5,7 @@
 ## 👨‍💻 Software Engineer & Content Creator passionate about building digital experiences that make an impact
 
 <p align="left"><strong>My name is Dhruv Sathe and I'm a Front-End Developer with 2+ years of experience, from Pune, India 🇮🇳</strong></p>
+
 <p align="left">I specialize in crafting responsive, scalable web applications using modern JavaScript frameworks like React.js and Redux. With a strong focus on AI integration and user experience, I'm passionate about turning complex problems into elegant, intuitive solutions that drive real business impact.</p>
 
 ---
@@ -14,7 +15,7 @@
 **✨ Creating pixel-perfect interfaces since 2021**  
 **📚 Currently exploring**: AI integration in web development, Next.js advanced patterns, and serverless architectures  
 **🎯 Goals**: To become a full-stack AI engineer and contribute to open-source projects that democratize AI tools  
-**🎲 Fun fact: I can debug JavaScript faster than I can solve a Rubik's cube, and I once spent an entire weekend building a Video-to-GIF converter just because I thought it would be cool! 🎬➡️📱
+**🎲 Fun fact**: I can debug JavaScript faster than I can solve a Rubik's cube, and I once spent an entire weekend building a Video-to-GIF converter just because I thought it would be cool! 🎬➡️📱
 
 ---
 
